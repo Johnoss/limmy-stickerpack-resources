@@ -1,4 +1,5 @@
 ## Limmy Telegram Sticker Pack Resources
+![stickerpack initial version](https://i.imgur.com/4y2vHTF.gif)
 ### Links
  - Stickerpack: https://t.me/addstickers/BrianLimmy
  - Guide to report
