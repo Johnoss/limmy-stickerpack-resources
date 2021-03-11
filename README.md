@@ -1,7 +1,15 @@
-## Limmy Telegram Sticker Pack Resources
+
+
+## Limmy Sticker Pack Resources
+This was originally a stickerpack for Telegram, but due to popular demand I added WhatsApp and Signal Versions too, hopefully to the satisfaction of both people who requested it.
+
 ![stickerpack initial version](https://i.imgur.com/4y2vHTF.gif)
 ### Links
- - Stickerpack: https://t.me/addstickers/BrianLimmy
+ - [![image](https://user-images.githubusercontent.com/22054339/110866918-33418700-82c6-11eb-9e17-a8ca62004d8e.png) Telegram stickerpack](https://t.me/addstickers/BrianLimmy)
+ - [ ![image](https://user-images.githubusercontent.com/22054339/110867086-7f8cc700-82c6-11eb-8beb-0242e42eafa0.png) Signal stickerpack](https://signal.art/addstickers/#pack_id=72b3953fc199bb7954459975117dcded&pack_key=0e744b30beb506a8d3f4e439ec25b9f5242bf87850569bb92154c5e0f6b5279d)
+ - [![image](https://user-images.githubusercontent.com/22054339/110867595-4e60c680-82c7-11eb-8a7a-76496f245707.png) Whatsapp stickerpack](https://github.com/Johnoss/limmy-stickerpack-resources/raw/master/WhatsApp%20Stickers/Limmy.wastickers) - Download Sticker studio and open the .wastickers on your phone. You have to keep the app installed <sup>(psst, switch to Telegram, it's better anyway)</sup>
+	 - [Sticker Studio for Android](https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp)
+	 - [Sticker Studio for iOS](https://apps.apple.com/ca/app/sticker-maker-studio/id1443326857) 
  - Guide to report
    copyright infringement (which I'm probably doing):
    https://www.gov.uk/defend-your-intellectual-property
